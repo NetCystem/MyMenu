@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMenu</string>
+    <string name="context">Context</string>
+    <string name="popup">Popup</string>
+    <string name="big">Big</string>
+    <string name="medium">Medium</string>
+    <string name="small">Small</string>
+</resources>
